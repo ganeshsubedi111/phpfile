@@ -18,7 +18,7 @@
 	</form>
 </body>
 </html>
-
+//process_form.php
 <?php
 $servername = "localhost";
 $username = "root";
